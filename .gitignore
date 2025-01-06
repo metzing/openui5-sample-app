@@ -57,6 +57,9 @@ typings/
 # dotenv environment variables file
 .env
 
+# Visual Studio Code preferences
+.vscode/
+
 # Misc
 .DS_Store
 
